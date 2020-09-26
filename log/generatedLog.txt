@@ -1,0 +1,12 @@
+INFO	2020-09-26 23:50:28,092	0	UtilityClass.ListenerClass	[main]	Test is Start=loginTestExecution
+INFO	2020-09-26 23:50:33,436	5344	tests.TestCases	[main]	Page title verify for the second test=Login - My Store
+INFO	2020-09-26 23:50:37,803	9711	UtilityClass.ListenerClass	[main]	Test is SuccessloginTestExecution
+INFO	2020-09-26 23:50:39,745	11653	UtilityClass.ListenerClass	[main]	Test is Start=addToCardTestExecution
+INFO	2020-09-26 23:50:39,940	11848	tests.TestCases	[main]	Page title verify for the third test=My account - My Store
+DEBUG	2020-09-26 23:50:53,728	25636	Pages.AddToCartt	[main]	Actual cost of product=$35.02
+INFO	2020-09-26 23:50:53,728	25636	Pages.AddToCartt	[main]	Cost is Successfully Verified
+INFO	2020-09-26 23:51:17,248	49156	tests.TestCases	[main]	Page title verify for another method in the third test=My account - My Store
+INFO	2020-09-26 23:51:17,251	49159	UtilityClass.ListenerClass	[main]	Test is SuccessaddToCardTestExecution
+INFO	2020-09-26 23:51:17,908	49816	UtilityClass.ListenerClass	[main]	Test is Start=verifyProfileOrder
+INFO	2020-09-26 23:51:20,673	52581	tests.TestCases	[main]	Page title verify for the fourth test=My account - My Store
+INFO	2020-09-26 23:51:25,825	57733	UtilityClass.ListenerClass	[main]	Test is SuccessverifyProfileOrder

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49785" started-at="2020-09-27T00:13:59 IST" finished-at="2020-09-27T00:14:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49785" started-at="2020-09-27T00:13:59 IST" finished-at="2020-09-27T00:14:49 IST">
+      <class name="tests.TestCases">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:tests.TestCases@1500955a]" name="openBrowser" is-config="true" duration-ms="90087" started-at="2020-09-27T00:12:29 IST" finished-at="2020-09-27T00:13:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginTestExecution()[pri:2, instance:tests.TestCases@1500955a]" name="loginTestExecution" duration-ms="11775" started-at="2020-09-27T00:13:59 IST" description="Login with new user Credentials" finished-at="2020-09-27T00:14:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestExecution -->
+        <test-method status="PASS" signature="takeScreenShot()[pri:0, instance:tests.TestCases@1500955a]" name="takeScreenShot" is-config="true" duration-ms="2047" started-at="2020-09-27T00:14:11 IST" finished-at="2020-09-27T00:14:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShot -->
+        <test-method status="PASS" signature="addToCardTestExecution()[pri:3, instance:tests.TestCases@1500955a]" name="addToCardTestExecution" duration-ms="29122" started-at="2020-09-27T00:14:13 IST" description="Add product to cart &amp; Complete the payment process" finished-at="2020-09-27T00:14:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCardTestExecution -->
+        <test-method status="PASS" signature="takeScreenShot()[pri:0, instance:tests.TestCases@1500955a]" name="takeScreenShot" is-config="true" duration-ms="858" started-at="2020-09-27T00:14:42 IST" finished-at="2020-09-27T00:14:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShot -->
+        <test-method status="PASS" signature="verifyProfileOrder()[pri:4, instance:tests.TestCases@1500955a]" name="verifyProfileOrder" duration-ms="5510" started-at="2020-09-27T00:14:43 IST" description="Verifying the order History" finished-at="2020-09-27T00:14:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfileOrder -->
+        <test-method status="PASS" signature="takeScreenShot()[pri:0, instance:tests.TestCases@1500955a]" name="takeScreenShot" is-config="true" duration-ms="379" started-at="2020-09-27T00:14:49 IST" finished-at="2020-09-27T00:14:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShot -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:tests.TestCases@1500955a]" name="closeBrowser" is-config="true" duration-ms="16391" started-at="2020-09-27T00:14:50 IST" finished-at="2020-09-27T00:15:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
